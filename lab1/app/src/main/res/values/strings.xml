@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab1_Lozovytska</string>
+    <string name="tab_text_1">Вкладка 1</string>
+    <string name="tab_text_2">Вкладка 2</string>
+    <string name="login">Login</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="sig_in">sig in</string>
+</resources>
